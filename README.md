@@ -10,6 +10,13 @@ By delivering precise predictions, our model will enable Maverik to construct mo
 - Anticipated sales figures for distinct items like gasoline, diesel, in-store merchandise, and in-store food on a daily basis.
 - A comparison between the actual sales recorded at each store on a particular day and the predictions made by our model.
 
+## Group's solution to the business problem.
+
+Maverik wants our model to be really good. We use numbers to check how good it is.
+One number, RMSE, tells us if the model is close to reality. The best model we made is called XGB.
+Another number, "Days to 5%," shows how quickly our model gets predictions right. Maverik wants quick and accurate predictions. We're still figuring out how fast our model can do this.
+We found out that the most important things for our model are recent sales and sales during certain times of the year. These things help our XGB model predict sales better.
+Our model is good, but it could be better if we had more data, like location info. With more time and data, we can make it even better for Maverik to use in their stores.
 
 
 
