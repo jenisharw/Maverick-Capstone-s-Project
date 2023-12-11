@@ -28,6 +28,17 @@ Promotion -- Consider special offers in April to capitalize on increased gas sal
 Plan Ahead  -- Use these patterns to plan for the busy season in advance
 
 ## The business value of the solution.
+Given the importance of launching new stores successfully and maintaining growth in existing locations, our team has a key role. This model needs to be better than the simple one that's been in use for a few weeks. Its success will impact how well we choose new locations, open them, and keep them running smoothly, while also ensuring existing stores continue to grow.  We find out that Maverik sells the most during the summer, with a big jump in snacks and fuel sales in June and July. People also buy a lot of gas in April, maybe for spring road trips. This helps Maverik know when to have more items in stock and when to have more workers on hand.
+Suggestion
+# With those respective trends we can make planning stock levels and promotions to match customer buying patterns.
+Stock Up -- Prepare more inventory for the summer, especially in June and July.
+Staff Accordingly -- Schedule extra staff during these peak months
+Promotion -- Consider special offers in April to capitalize on increased gas sales.
+Plan Ahead  -- Use these patterns to plan for the busy season in advance.
+
+## Difficulties that your group encountered along the way.
 
 
+
+## learned in the project.
 
