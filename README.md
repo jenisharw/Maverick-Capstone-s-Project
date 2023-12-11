@@ -18,6 +18,14 @@ Another number, "Days to 5%," shows how quickly our model gets predictions right
 We found out that the most important things for our model are recent sales and sales during certain times of the year. These things help our XGB model predict sales better.
 Our model is good, but it could be better if we had more data, like location info. With more time and data, we can make it even better for Maverik to use in their stores.
 
+## Contribution
+In EDA I Have done all the interpretations part and writing with the results.And See all the necessary visulaization of the project. Along with that I have tried to so all the comparison the the performance metrics of the naive model with our XGBoost model , visualization between actual and predicted values. Along with that done the Weekly Sales Trends:
+and figure it All items struggle on weekends after a strong Friday, diesel worst of all with the visualization . And also done the visualization in seasonal trend with the product.
+And created the some suggestion to the maverick to uplift their business.such 
+As Stock Up -- Prepare more inventory for the summer, especially in June and July.
+Staff Accordingly -- Schedule extra staff during these peak months
+Promotion -- Consider special offers in April to capitalize on increased gas sales.
+Plan Ahead  -- Use these patterns to plan for the busy season in advance
 
 
 
